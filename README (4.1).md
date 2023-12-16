@@ -22,7 +22,3 @@ Neste desafio de projeto, iremos criar um Phishing para capturar senhas de login
 * URL para clone: http://www.facebook.com
 
 ## Resultados
-
-![Alt text][def]
-
-[def]: image-1.png
