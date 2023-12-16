@@ -22,3 +22,7 @@ Neste desafio de projeto, iremos criar um Phishing para capturar senhas de login
 * URL para clone: http://www.facebook.com
 
 ## Resultados
+
+
+![App Screenshot](https://github.com/cristiano-araujo/desafio-de-projeto/blob/master/Resultado.png?raw=true)
+
